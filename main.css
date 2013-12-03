@@ -236,3 +236,11 @@ table {
 .new {
 	color:#F00;
 }
+
+.NavItem-signin {
+    background: url(apps.png);
+    background-size:20px;
+    background-repeat:no-repeat;
+    background-position:center;
+    width:30px;
+}
